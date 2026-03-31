@@ -9,7 +9,7 @@
 | **Institution** | VIT Bhopal University |
 | **Project Type** | Bring Your Own Project (BYOP) Capstone |
 | **Language / Standard** | C++17 |
-| **Submission Date** | 2025 |
+| **Submission Date** | 2026 |
 
 ---
 
@@ -385,4 +385,4 @@ continued study.
 
 ---
 
-*Report prepared as part of the BYOP Capstone Assessment, VIT Bhopal, 2025.*
+*Report prepared as part of the BYOP Capstone Assessment, VIT Bhopal, 2026.*
