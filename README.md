@@ -159,7 +159,7 @@ video-render-storage-estimator/
 ├── main.cpp          ← Complete C++17 source
 ├── README.md         ← This file
 ├── Project_Report.md ← BYOP Academic Report
-└── GIT_STRATEGY.md   ← Git commit history guide
+
 ```
 
 ---
@@ -185,10 +185,7 @@ File Size (GiB) = Total Bits / 8 / 1,073,741,824
 
 ## 👤 Author
 
-**Salam** · Reg No: 25BAI10036
-B.Tech — Artificial Intelligence & Machine Learning, Year 1
-VIT Bhopal University
-
+**SALAM KHAN** 
 ---
 
 ## 📄 License
